@@ -1,0 +1,1 @@
+image_angle = point_direction(x, y, obj_hBox.x, obj_hBox.y)

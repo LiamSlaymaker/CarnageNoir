@@ -1,0 +1,1 @@
+//draw_debug_message(move, 50, 50);

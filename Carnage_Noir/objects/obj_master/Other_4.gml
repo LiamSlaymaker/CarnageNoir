@@ -1,0 +1,1 @@
+surface_resize(application_surface, 1280, 960)

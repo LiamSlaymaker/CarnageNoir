@@ -1,0 +1,2 @@
+
+fader.transition = 2

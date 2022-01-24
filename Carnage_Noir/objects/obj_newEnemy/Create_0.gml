@@ -1,0 +1,37 @@
+dead_dir=0
+active=0
+instantiated = false;
+dir_change = 1;
+//dir_change=-1+round(random(1))*2
+//if dir_change>0 {
+//	direction=0 
+//} else {
+//	direction=180
+//}
+reload=0
+if (difficult)
+	energie = 2
+else
+	energie=0
+react=0
+ammo_load=0
+my_speed=0
+my_angle=direction
+index=0
+last=dir_change;
+//last=dir_change
+aware=0
+armed=1;
+door_hit=0;
+flamed=0
+splitt=0
+clubbed=0
+exploded=0
+reload=4
+check_time=5
+minigun=0
+
+move_type = "patrol";
+ammo_type = "mg";
+
+gun_to_drop = noone;
